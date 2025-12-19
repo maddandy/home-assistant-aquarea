@@ -1,4 +1,4 @@
-FORK version ! Used for testing purposes 
+## ⚠️FORK version ! Used for testing purposes 
 
 # Manage Panasonic Aquarea Smart Cloud devices from Home Assistant
 
