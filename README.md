@@ -1,5 +1,3 @@
-## ⚠️FORK version ! Used for testing purposes 
-
 # Manage Panasonic Aquarea Smart Cloud devices from Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
